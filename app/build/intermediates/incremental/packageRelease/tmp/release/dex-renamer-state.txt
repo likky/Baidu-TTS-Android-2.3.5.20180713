@@ -1,0 +1,4 @@
+#Thu May 16 12:16:19 CST 2019
+base.0=G\:\\Baidu-TTS-Android-2.3.5.20180713\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

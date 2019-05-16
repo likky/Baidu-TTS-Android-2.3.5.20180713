@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\946c3e9761114b15a5715e4e37de1ba7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bb839e661aec061a207b8c2e99d76aeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\5d240713e03b0cfa40eef59503c89e41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\e983130f11ae86d7d2835d244c31a876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\d8ef785f064e71c76a32c85c2899f6af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\82770edb01e39655bc8fd2ce41bd7985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\444e51d3fa1f07cd5aac0197b91dda7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bc9005fe4ce48ba4ba44be36dbc40658\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\53c31298ddb0070a766da5ae8fc479fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\92e9019515bc833cf29f0217e13db6bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\dba463a4d99fa8817bbf5f4e5810d28a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\18a38b47eb0c436a9d93531723d132d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a92cc3f3eaf466b16b7dcc9552386731\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\225e68b44da15e6ff662f51513a9fbe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\1f2772f39039881a472b7e4bcf0d5820\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\54c26bfe459c6127b9fb55289abff33a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\2926193788b7d98b0205f70888e98fbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\8f7696d84abbd3b1a90d67ac95e52021\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\30cc0f4ecd19b7a06739ac15b8ab9644\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a18e60e8d0842f3af33cf0ad617292fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\3d4217e645824f575fd4911023078b0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\ac9916a07a5fa3964330b7c61f05e35b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\35965eb4c0f9e813f8b58cda1f510f4a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a6a67a975ada042f4c985477baac8f41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\cf755cd6e2ecb069ba496f52a831f7c0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:14:22-73
+application
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:16:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\1f2772f39039881a472b7e4bcf0d5820\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\1f2772f39039881a472b7e4bcf0d5820\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:20:9-40
+uses-library#org.apache.http.legacy
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:21:9-88
+	android:required
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:21:23-60
+activity#com.baidu.tts.sample.MainActivity
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:22:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.baidu.tts.sample.SynthActivity
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:29:9-31:39
+	android:label
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:30:13-62
+activity#com.baidu.tts.sample.MiniActivity
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:32:9-34:37
+	android:label
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:34:13-34
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:33:13-61
+activity#com.baidu.tts.sample.SaveFileActivity
+ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:label
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml:36:13-65
+uses-sdk
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\946c3e9761114b15a5715e4e37de1ba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\946c3e9761114b15a5715e4e37de1ba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bb839e661aec061a207b8c2e99d76aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bb839e661aec061a207b8c2e99d76aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\5d240713e03b0cfa40eef59503c89e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\5d240713e03b0cfa40eef59503c89e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\e983130f11ae86d7d2835d244c31a876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\e983130f11ae86d7d2835d244c31a876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\d8ef785f064e71c76a32c85c2899f6af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\d8ef785f064e71c76a32c85c2899f6af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\82770edb01e39655bc8fd2ce41bd7985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\82770edb01e39655bc8fd2ce41bd7985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\444e51d3fa1f07cd5aac0197b91dda7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\444e51d3fa1f07cd5aac0197b91dda7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bc9005fe4ce48ba4ba44be36dbc40658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\bc9005fe4ce48ba4ba44be36dbc40658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\53c31298ddb0070a766da5ae8fc479fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\53c31298ddb0070a766da5ae8fc479fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\92e9019515bc833cf29f0217e13db6bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\92e9019515bc833cf29f0217e13db6bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\dba463a4d99fa8817bbf5f4e5810d28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\dba463a4d99fa8817bbf5f4e5810d28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\18a38b47eb0c436a9d93531723d132d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\18a38b47eb0c436a9d93531723d132d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a92cc3f3eaf466b16b7dcc9552386731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a92cc3f3eaf466b16b7dcc9552386731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\225e68b44da15e6ff662f51513a9fbe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\225e68b44da15e6ff662f51513a9fbe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\6558f44994b21e1ba6bdf7086f40dfcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\1f2772f39039881a472b7e4bcf0d5820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\1f2772f39039881a472b7e4bcf0d5820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\54c26bfe459c6127b9fb55289abff33a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\54c26bfe459c6127b9fb55289abff33a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\2926193788b7d98b0205f70888e98fbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\2926193788b7d98b0205f70888e98fbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\8f7696d84abbd3b1a90d67ac95e52021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\8f7696d84abbd3b1a90d67ac95e52021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\30cc0f4ecd19b7a06739ac15b8ab9644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\30cc0f4ecd19b7a06739ac15b8ab9644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a18e60e8d0842f3af33cf0ad617292fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a18e60e8d0842f3af33cf0ad617292fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\3d4217e645824f575fd4911023078b0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\3d4217e645824f575fd4911023078b0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\ac9916a07a5fa3964330b7c61f05e35b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\ac9916a07a5fa3964330b7c61f05e35b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\35965eb4c0f9e813f8b58cda1f510f4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\35965eb4c0f9e813f8b58cda1f510f4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a6a67a975ada042f4c985477baac8f41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\a6a67a975ada042f4c985477baac8f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\cf755cd6e2ecb069ba496f52a831f7c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tiany\.gradle\caches\transforms-2\files-2.1\cf755cd6e2ecb069ba496f52a831f7c0\AndroidManifest.xml:20:5-44
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		ADDED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Baidu-TTS-Android-2.3.5.20180713\app\src\main\AndroidManifest.xml
